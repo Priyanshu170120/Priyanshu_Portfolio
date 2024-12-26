@@ -1,44 +1,48 @@
-# vCard - Personal portfolio
+# Priyanshu Singh's Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio! This website showcases my skills, projects, and achievements in the field of *Embedded Systems, **Electronics, and **Communication Engineering*.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## 🌟 About Me
+- *Name*: Priyanshu Singh  
+- *Field*: Embedded Systems and Electronics  
+- *Current Education*: PG Diploma in Embedded System Design at CDAC Hyderabad  
+- *Interests*: IoT, Microstrip Antennas, Embedded AI, RTOS, and Microcontroller-based systems.
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+---
 
-## Prerequisites
+## 🛠️ Technologies & Tools
+- *Languages*: C, C++, Python  
+- *Hardware Platforms*: Raspberry Pi, ESP32, Microcontrollers  
+- *Software*: HFSS, CST Studio Suite, Keil, Arduino IDE, MATLAB  
+- *Domains*: Antenna Design, IoT Systems, Embedded AI
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## 💼 Projects
+### 1. *Microstrip Patch Antenna for X-Band Applications*
+   - *Description*: Designed and simulated a compact antenna operating in the X-band (8-12 GHz). Achieved high efficiency and low return loss for applications in radar and satellite communications.
+   - *Technologies*: HFSS, CST Studio Suite  
+   - *Results*: Return Loss: -34.37 dB, Radiation Efficiency: 77.16%, Peak Gain: 3.05 dB  
+   - **[View Project on GitHub](https://github.com/Priyanshu170120/Microstrip-Patch-Antenna-X-Band)**  
+   - *[Download Detailed Report](Major_Report.pdf)*
 
-## Installing vCard
+### 2. *Automatic Headlight Dimming System*
+   - *Description*: Developed a system to automatically switch vehicle headlights from high beam to low beam using object detection.  
+   - *Technologies*: ESP32, Ultrasonic Sensors, IoT Integration  
+   - *Status*: Completed
 
-To install **vCard**, follow these steps:
+### 3. *IoT-Based Environmental Monitoring System*
+   - *Description*: Designed a system to monitor temperature, humidity, and air quality using IoT sensors.  
+   - *Technologies*: Raspberry Pi, Python, MQTT  
+   - *Status*: In Progress
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+## 🌐 Live Portfolio
+Check out my portfolio here: [Priyanshu's Portfolio](https://priyanshu170120.github.io/Priyanshu_Portfolio/)
 
-Windows:
+---
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
+## 📂 Repository Structure
